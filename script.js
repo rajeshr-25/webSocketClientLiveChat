@@ -1,4 +1,4 @@
-const socket = new WebSocket("ws://localhost:3000");
+const socket = new WebSocket("https://websocketserverlivechat.onrender.com");
 
 let username = "";
 
